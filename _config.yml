@@ -1,0 +1,6 @@
+destination: /var/www/beatgammit/blog/http
+pygments: true
+markdown: rdiscount
+exclude: mkdocument
+lsi: true
+permalink: /articles/:title.html
