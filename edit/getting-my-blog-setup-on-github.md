@@ -1,0 +1,1 @@
+../_posts/2010-10-06-getting-my-blog-setup-on-github.md
