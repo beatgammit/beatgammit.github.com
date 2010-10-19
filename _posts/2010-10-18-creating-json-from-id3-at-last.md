@@ -1,8 +1,8 @@
 ---
 layout: article
 uuid: 24971ab3-9cb7-443b-9526-3a5ccc0aa2fd
-title: Creating JSON from ID3, at last./mkdocument
-name: creating-json-from-id3-at-last-mkdocument
+title: Creating JSON from ID3, at last
+name: creating-json-from-id3-at-last
 created_at: 2010-10-18
 updated_at: 2010-10-18
 categories: id3

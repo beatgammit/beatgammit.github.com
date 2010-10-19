@@ -1,1 +1,1 @@
-../_posts/2010-10-18-creating-json-from-id3-at-last-mkdocument.md
+_posts/2010-10-18-creating-json-from-id3-at-last.md
