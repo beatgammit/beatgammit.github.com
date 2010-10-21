@@ -1,0 +1,1 @@
+../_posts/2010-10-20-saving-jpegs-to-file-and-starting-github-repo.md
